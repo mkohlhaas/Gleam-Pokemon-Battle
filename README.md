@@ -7,6 +7,9 @@ it turns out, things can be made more simple using Gleam. Let me show you how.
 Thanks to CodeCrafters for sponsoring this video! Level up your coding skills:
 https://ihh.dev/codecrafters
 
+
+[YT - Your backend is too complicated](https://www.youtube.com/watch?v=D88S_RdagP8&list=WL&index=5&t=351s&pp=gAQBiAQB)
+
 ## Running the code
 
 Ensure you have Gleam and Erlang installed on your system. You can find instructions
